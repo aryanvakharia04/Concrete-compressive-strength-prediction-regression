@@ -10,6 +10,5 @@ Studied and Analyzed concrete compressive strength to understand the data and co
 Compared the results to recommend the best Regression 
 model
 
-colab link : https://colab.research.google.com/drive/1xTamta6AJNRDlLQd3EIdnhfoua0MlGCg?usp=sharing
-
-and ppt link : https://1drv.ms/p/s!Ah1mifV3uuP-gQzMoL-SeNBeFDsX?e=aqKvbQ
+colab link : https://colab.research.google.com/drive/1xTamta6AJNRDlLQd3EIdnhfoua0MlGCg#scrollTo=8ActNpQHgFo1
+and ppt link : https://1drv.ms/p/s!Ah1mifV3uuP-gQwI_NvGyCPyGUNc
